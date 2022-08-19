@@ -44,4 +44,4 @@ bases. You have converted between decimal and binary, and also between decimal a
 hexadecimal.
 
 [parseint-mdn]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
-[tostring-mdn]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString
+[tostring-mdn]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString# binary-hex
